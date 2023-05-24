@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, C#, C++, Python, and lua
 - 🌱 I’m currently learning HTML and C++
 - 💞️ I’m looking to collaborate on unblocked game websites, proxies, etc.
-- 👏 I enjoy forking old projects, making them mine, and building on them and making them better than before, with constant updates.
+- 👏 I fork old abandoned projects, then make them better and constantly update them!
 - 📫 You can reach me by discord.
 
 <!---
